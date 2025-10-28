@@ -3,6 +3,8 @@
     "id": 1,
     "title": "The Elixir",
     "description": "An elixir unleashes the undead in a village. A family at odds with one another must unite and fight to survive as their hometown collapses.",
+    "year": "2024",
+    "genre": "Horror, Thriller",
     "posterUrl": "https://image.tmdb.org/t/p/w500/wvWRCDR0wScmrJVAh2iipBSxkZw.jpg",
     "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4"
   },
@@ -10,6 +12,8 @@
     "id": 2,
     "title": "GoodFellas",
     "description": "Brooklyn kid who is adopted by neighbourhood gangsters at an early age and climbs the ranks of a Mafia family",
+    "year": "1990",
+    "genre": "Crime, Drama",
     "posterUrl": "https://image.tmdb.org/t/p/w500/aKuFiU82s5ISJpGZp7YkIr3kCUd.jpg",
     "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4"
   },
@@ -17,6 +21,8 @@
     "id": 3,
     "title": "The Asset",
     "description": "A young agent goes undercover to befriend a drug smuggler's wife. But the closer she gets to her target, the more complicated her mission becomes.",
+    "year": "2021",
+    "genre": "Action, Thriller",
     "posterUrl": "https://image.tmdb.org/t/p/w1280/ugreFeu0Ng7wnfX6ZRNoQa2sbxX.jpg",
     "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/Sintel.mp4"
   },
@@ -24,6 +30,8 @@
     "id": 4,
     "title": "Tenet",
     "description": "Armed with only one word, Tenet, a protagonist fights for the survival of the world.",
+    "year": "2020",
+    "genre": "Action, Sci-Fi, Thriller",
     "posterUrl": "https://image.tmdb.org/t/p/w500/aCIFMriQh8rvhxpN1IWGgvH0Tlg.jpg",
     "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/TearsOfSteel.mp4"
   },
@@ -31,6 +39,8 @@
     "id": 5,
     "title": "Dune",
     "description": "A noble family becomes embroiled in a war for control of a desert planet.",
+    "year": "2021",
+    "genre": "Adventure, Drama, Sci-Fi",
     "posterUrl": "https://image.tmdb.org/t/p/w500/d5NXSklXo0qyIYkgV94XAgMIckC.jpg",
     "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerFun.mp4"
   },
@@ -38,6 +48,8 @@
     "id": 6,
     "title": "Avatar: The Way of Water",
     "description": "Jake Sully and Ney'tiri form a family and fight to stay together.",
+    "year": "2022",
+    "genre": "Action, Adventure, Fantasy",
     "posterUrl": "https://image.tmdb.org/t/p/w500/t6HIqrRAclMCA60NsSmeqe9RmNV.jpg",
     "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerJoyrides.mp4"
   },
@@ -45,6 +57,8 @@
     "id": 7,
     "title": "Burn the House Down",
     "description": "After her mother took the blame for a tragic fire 13 years ago, Anzu plots revenge by working as a housekeeper under a pseudonym for her icy stepmother.",
+    "year": "2023",
+    "genre": "Drama, Mystery, Thriller",
     "posterUrl": "https://image.tmdb.org/t/p/w500/s4Ot7YP5GjEW8ggmjXbf79u6b2N.jpg",
     "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/SubaruOutbackOnStreetAndDirt.mp4"
   },
@@ -52,6 +66,8 @@
     "id": 8,
     "title": "The Matrix",
     "description": "A hacker discovers the world is a simulation controlled by machines.",
+    "year": "1999",
+    "genre": "Action, Sci-Fi",
     "posterUrl": "https://image.tmdb.org/t/p/w500/f89U3ADr1oiB1s9GkdPOEpXUk5H.jpg",
     "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/VolkswagenGTIReview.mp4"
   },
@@ -59,6 +75,8 @@
     "id": 9,
     "title": "Spider-Man: No Way Home",
     "description": "Spider-Man seeks help from Doctor Strange when his identity is revealed.",
+    "year": "2021",
+    "genre": "Action, Adventure, Fantasy",
     "posterUrl": "https://image.tmdb.org/t/p/w500/1g0dhYtq4irTY1GPXvft6k4YLjm.jpg",
     "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/WeAreGoingOnBullrun.mp4"
   },
@@ -66,6 +84,8 @@
     "id": 10,
     "title": "Guardians of the Galaxy Vol. 3",
     "description": "The Guardians band together for one last mission to protect Rocket.",
+    "year": "2023",
+    "genre": "Action, Adventure, Comedy",
     "posterUrl": "https://image.tmdb.org/t/p/w500/r2J02Z2OpNTctfOSN1Ydgii51I3.jpg",
     "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerEscapes.mp4"
   },
@@ -73,6 +93,8 @@
     "id": 11,
     "title": "Train to Busan",
     "description": "When a zombie virus pushes Korea into a state of emergency, those trapped on an express train to Busan must fight for their own survival.",
+    "year": "2016",
+    "genre": "Action, Horror, Thriller",
     "posterUrl": "https://image.tmdb.org/t/p/w500/vNVFt6dtcqnI7hqa6LFBUibuFiw.jpg",
     "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4"
   }
