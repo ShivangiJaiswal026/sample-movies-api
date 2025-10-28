@@ -1,0 +1,16 @@
+[
+  {
+    "id": 1,
+    "title": "Inception",
+    "description": "A thief who steals corporate secrets through dream-sharing.",
+    "posterUrl": "https://image.tmdb.org/t/p/w500/qmDpIHrmpJINaRKAfWQfftjCdyi.jpg",
+    "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4"
+  },
+  {
+    "id": 2,
+    "title": "Interstellar",
+    "description": "A team of explorers travel through a wormhole in space.",
+    "posterUrl": "https://image.tmdb.org/t/p/w500/rAiYTfKGqDCRIIqo664sY9XZIvQ.jpg",
+    "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4"
+  }
+]
