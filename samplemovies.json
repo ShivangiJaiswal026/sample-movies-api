@@ -12,5 +12,61 @@
     "description": "A team of explorers travel through a wormhole in space.",
     "posterUrl": "https://image.tmdb.org/t/p/w500/rAiYTfKGqDCRIIqo664sY9XZIvQ.jpg",
     "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4"
+  },
+  {
+    "id": 3,
+    "title": "The Dark Knight",
+    "description": "Batman faces the Joker, a criminal mastermind spreading chaos in Gotham.",
+    "posterUrl": "https://image.tmdb.org/t/p/w500/qJ2tW6WMUDux911r6m7haRef0WH.jpg",
+    "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/Sintel.mp4"
+  },
+  {
+    "id": 4,
+    "title": "Tenet",
+    "description": "Armed with only one word, Tenet, a protagonist fights for the survival of the world.",
+    "posterUrl": "https://image.tmdb.org/t/p/w500/aCIFMriQh8rvhxpN1IWGgvH0Tlg.jpg",
+    "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/TearsOfSteel.mp4"
+  },
+  {
+    "id": 5,
+    "title": "Dune",
+    "description": "A noble family becomes embroiled in a war for control of a desert planet.",
+    "posterUrl": "https://image.tmdb.org/t/p/w500/d5NXSklXo0qyIYkgV94XAgMIckC.jpg",
+    "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerFun.mp4"
+  },
+  {
+    "id": 6,
+    "title": "Avatar: The Way of Water",
+    "description": "Jake Sully and Ney'tiri form a family and fight to stay together.",
+    "posterUrl": "https://image.tmdb.org/t/p/w500/t6HIqrRAclMCA60NsSmeqe9RmNV.jpg",
+    "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerJoyrides.mp4"
+  },
+  {
+    "id": 7,
+    "title": "Oppenheimer",
+    "description": "The story of J. Robert Oppenheimer, the father of the atomic bomb.",
+    "posterUrl": "https://image.tmdb.org/t/p/w500/bAFmcrjHZsN9zqYx2pYhZzR2ujR.jpg",
+    "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/SubaruOutbackOnStreetAndDirt.mp4"
+  },
+  {
+    "id": 8,
+    "title": "The Matrix",
+    "description": "A hacker discovers the world is a simulation controlled by machines.",
+    "posterUrl": "https://image.tmdb.org/t/p/w500/f89U3ADr1oiB1s9GkdPOEpXUk5H.jpg",
+    "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/VolkswagenGTIReview.mp4"
+  },
+  {
+    "id": 9,
+    "title": "Spider-Man: No Way Home",
+    "description": "Spider-Man seeks help from Doctor Strange when his identity is revealed.",
+    "posterUrl": "https://image.tmdb.org/t/p/w500/1g0dhYtq4irTY1GPXvft6k4YLjm.jpg",
+    "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/WeAreGoingOnBullrun.mp4"
+  },
+  {
+    "id": 10,
+    "title": "Guardians of the Galaxy Vol. 3",
+    "description": "The Guardians band together for one last mission to protect Rocket.",
+    "posterUrl": "https://image.tmdb.org/t/p/w500/r2J02Z2OpNTctfOSN1Ydgii51I3.jpg",
+    "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerEscapes.mp4"
   }
 ]
